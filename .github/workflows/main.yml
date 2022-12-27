@@ -17,4 +17,4 @@ jobs:
         server: www.khasproduct.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /demo.khasproduct.com/
+        server-dir: /demo.khasproduct.com
